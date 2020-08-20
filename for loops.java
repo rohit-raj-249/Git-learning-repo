@@ -4,7 +4,8 @@ public class For_loop
 	{
 		for (int i = 0; i <= 10; i++)
 		{
-			System.Out.println(i)
+			System.out.println("The numbers are");
+			System.Out.println(i);
 		}
 	}
 }
